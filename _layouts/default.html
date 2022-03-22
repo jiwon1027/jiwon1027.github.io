@@ -16,15 +16,41 @@
 
       {%- include about.html -%}
 
-      {%- if site.version == 2 -%}
-        {% for section in site.content %}
-          <div class="container {{ section.layout }}-container">
-            <h3 id="{{ section.title | slugify }}">{{ section.title }}</h3>
-            {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
-          </div>
-        {% endfor %}
-      {% else %}
-        {%- include v1/default.html -%}
+      {%- if site.data.introduce.size > 0 -%}
+        {%- include introduce.html -%}
+      {%- endif -%}
+
+      {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
+      {%- endif -%}
+
+      {%- if site.data.skill.size > 0 -%}
+        {%- include skill.html -%}
+      {%- endif -%}
+
+      <!-- {%- if site.data.ability.size > 0 -%}
+        {%- include ability.html -%}
+      {%- endif -%}                                        -->
+
+
+      {%- if site.data.education.size > 0 -%}
+        {%- include education.html -%}
+      {%- endif -%}
+
+      <!-- {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%} -->
+
+      <!-- {%- if site.data.toyproject.size > 0 -%}
+        {%- include toyprojects.html -%}
+      {%- endif -%} -->
+
+      {%- if site.data.class.size > 0 -%}
+        {%- include class.html -%}
+      {%- endif -%}
+
+      {%- if site.more_content -%}
+        {%- include more.html -%}
       {%- endif -%}
     </div>
   </main>

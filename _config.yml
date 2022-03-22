@@ -24,7 +24,7 @@ github_username:  jiwon1027
 # Additional icon links
 additional_links:
 - title: Personal Blog
-  icon: fa-solid fa-tag
+  icon: fa-solid fa-cube
   url: https://ddangjiwon.tistory.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
     - 꿈을 꾸는 문어
     - 꿈속에서는 무엇이든지 될 수 있어
     - <a href="google.com">나는 문어</a>
-    - 문어 ![alt text](/images/oc.jpg "문어")
+    - 문어 ![alt text](/images/oc.jpg)
 
 content:
   - title: Projects # Title for the section
