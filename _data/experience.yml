@@ -1,36 +1,41 @@
 - layout: left
-  company: 엔에이치에스
-  job_title: <mark>Java</mark> <mark>Spring</mark> 백엔드 개발자 / 팀원
-  dates: 2021.05.10 ~ 재직 중
-  quote: >
-
-  description: | # this will include new lines to allow paragraphs
-    - 모두의 노래방 백엔드 개발
-    - <mark>Spring</mark> 기반 서버 API 개발
-      - 유저 포스팅 기능 개발
-      - 유저 팔로우, 팔로잉 기능 개발
-      - 실시간 검색어 기능 개발
-      - 기프티콘 API 연동 
-      - 라이브룸 관제 기능 개발
-    - <mark>Node.js</mark> <mark>Fastify</mark> 기반 기존 레거시 서버 API 개발
-      - 유저 차단, 신고 기능 개발
-      - 노래 썸네일 수정 기능 개발
-      - 공지사항 crud 기능 개발
-      - 배경화면 crud 기능 개발
-      - 유저 관리 기능 개발
-    - <mark>Vue</mark> <mark>Nuxt.js</mark> 를 사용한 관리자 페이지 개발
+  company: 자격증
+  job_title: 한국산업인력공단
+  description: |
+    - 정보처리기사(2021.04)
+    - 정보처리기능사(2018.05)
 
 - layout: left
-  company: 앤트라인소프트
-  job_title: <mark>Node.js</mark> 개발자 / 팀원
-  dates: 2019.10.07 ~ 2021.04.26
-  quote: >
+  company: 논문
+  job_title: 한국정보통신학회
+  description: |
+    - (2020 한국정보통신학회 추계학술대회)
+    딥러닝 기반의 탑승 인원 감지 시스템 개발
+    차량 탑승 인원 확인 시스템 개발을 위한 딥러닝 모델 분석에 관한 연구
 
-  description: | # this will include new lines to allow paragraphs
-    - 현대에서 사용하는 Log Management System 개발 프로젝트 참여 
-    - <mark>Node.js</mark> <mark>Vue.js</mark> 를 사용한 사용자 대시보드 개발
-        - <mark>ApexChart.js</mark> 를 사용한 각종 그래프 개발
-        - 사용자 커스텀 대시보드 기능 개발
-        - 그래프 위젯 관리 기능 개발
-    - <mark>Node.js</mark> <mark>Expess</mark> 를 사용한 사용자 대시보드 API 개발
-        - ELK 스택 기반의 각종 LOG를 불러오는 API 개발
+    - (2021 한국정보통신학회 논문지)
+    최적화된 차량 탑승인원 감지시스템 개발을 위한 딥러닝 모델 분석
+
+    - (2021 국제문화기술진흥원 JCCT)
+    임베디드 보드에서의 딥러닝 사용 효율성 분석 연구
+
+    - (2021 한국정보통신학회 춘계학술대회)
+    딥러닝 기술을 적용한 장애인주차구역 불법 행위 단속 시스템
+    차량 탑승 인원 감지를 위한 트리거 기술에 관한 연구
+
+- layout: left
+  company: 특허 출원
+  job_title: 특허청
+  description: |
+    - 차량 탑승인원 감지 시스템(2021.02)
+    - 스마트 장애인 주차구역 단속 시스템(2021.04)
+
+- layout: left
+  company: 수상
+  job_title:
+  description: |
+    - [우수상]인공지능 아이디어 경진대회(동의대학교 LINK+사업단, 2020.07)
+    - 우수 논문상(한국정보통신학회, 2020.10)
+    - [입상]학술대회 발표(부산인재평생교육진흥원, 2020.11)
+    - [대상]스마트IT 융합 FLEX대회(동의대학교, 2020.12)
+    - [최우수상]인공지능 자율드론 코딩 경진대회(동의대학교, 2021.10)
