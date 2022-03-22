@@ -3,7 +3,7 @@ repository: jiwon1027/resume
 favicon: images/favicon.ico
 
 # Personal info
-name: 이지원 (Lee Jun Hyun)
+name: 이지원 (Lee Ji won)
 title: Back-End Developer
 email: won64312000@naver.com
 website: https://ddangjiwon1027.tistory.com/
@@ -58,7 +58,7 @@ footer_show_references: true
 # Build settings
 livereload: true
 
-remote_theme: sproogen/resume-theme
+remote_theme: jiwon1027/resume
 
 sass:
   sass_dir: _sass
