@@ -1,4 +1,4 @@
-<div class="container header-container">
+<div class="container header-contianer">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
       <h1>{{ site.name | escape }}</h1>
@@ -83,6 +83,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.googleplus_username -%}
+          <li>
+            <a target="_blank" href="https://plus.google.com/{{ site.googleplus_username| escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-google-plus" title="Google plus link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.orcid_username -%}
           <li>
             <a target="_blank" href="https://orcid.org/{{ site.orcid_username | escape }}" class="button button--sacnite button--round-l">
@@ -90,35 +97,28 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.googlescholar_username -%}
-          <li>
-            <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-google" title="Google scholar link"></i>
-            </a>
-          </li>
-        {%- endif -%}
         {% for link in site.additional_links %}
           <li>
             {% include a.html href=link.url class="button button--sacnite button--round-l" %}
-              <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
+              <i class="fab {{ link.icon }}" title="{{ link.title | escape }}"></i>
             </a>
           </li>
         {% endfor %}
       </ul>
       {%- if site.phone -%}
         <p>
-          {{ site.phone_title | default: "Phone" }}: {{ site.phone | escape }}
+          Phone: {{ site.phone | escape }}
         </p>
       {%- endif -%}
       {%- if site.email -%}
         <p>
-          {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
 
       {%- if site.website -%}
         <p>
-          {{ site.website_title | default: "Web" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
     </div>

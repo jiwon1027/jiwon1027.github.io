@@ -1,78 +1,68 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
-# Content configuration version
-version: 2
+repository: jiwon1027/resume
+favicon: images/favicon.ico
 
 # Personal info
-name: 이지원 (Lee Ji Won)
+name: 이지원 (Lee Jun Hyun)
 title: Back-End Developer
 email: won64312000@naver.com
-# email_title: Email (Email title override)
+website: https://ddangjiwon1027.tistory.com/
 phone: 010 - 6429 - 1037
-# phone_title: Phone (Phone title override)
-website: https://ddangjiwon.tistory.com
-# website_title: Web (Website title override)
-
-# Dark Mode (true/false/never)
-darkmode: false
-
 # Social links
-github_username:  jiwon1027
-
-# Additional icon links
-additional_links:
-- title: Personal Blog
-  icon: fa-solid fa-cube
-  url: https://ddangjiwon.tistory.com
+github_username: jiwon1027
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username:
+# linkedin_username:
+# pinterest_username: jekyll
+# youtube_username:
+# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  나이 : 26세(1997년생)
+  나이 : 26 세 (1997년 생)
 
-  최종 학력 : 동의대학교 컴퓨터공학 졸업(3.84 / 4.5)
+  최종 학력 : 동의대학교 컴퓨터공학 졸업
 
   사는 곳 : 서울특별시 중랑구
 
   병역 : 2018.02 ~ 2019.10 육군 병장 만기제대
 
-  보유기술 : <mark>Python</mark> <mark>Django</mark> <mark>MySQL</mark>
+  사용 기술 : <mark>Python</mark> <mark>Django</mark> <mark>MySQL</mark>
 
 
-  나는 문어
-    - 꿈을 꾸는 문어
-    - 꿈속에서는 무엇이든지 될 수 있어
-    - <a href="google.com">나는 문어</a>
-    - 문어 ![alt text](/images/oc.jpg)
 
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# test Section
+# test_title: test
+
+# More Section
+more_title: Other
+more_content: | # this will include new lines to allow paragraphs
+  - [개인 블로그](https://ddangjiwon1027.tistory.com/)
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+livereload: true
+
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+  - jekyll-seo-tag
