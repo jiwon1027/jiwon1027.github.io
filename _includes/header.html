@@ -15,8 +15,8 @@
         {%- endif -%}
         {%- if site.facebook_username -%}
           <li>
-            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-facebook" title="Facebook link"></i>
+            <a target="_blank" href="https://ddangjiwon.tistory.com" class="button button--sacnite button--round-l">
+              <i class="fa-solid fa-t" title="Blog link"></i>
             </a>
           </li>
         {%- endif -%}
@@ -118,7 +118,7 @@
 
       {%- if site.website -%}
         <p>
-          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          Blog: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
     </div>
