@@ -1,6 +1,7 @@
 - layout: top-middle
   name: 차량 탑승 인원 감지 시스템
-  link: https://github.com/jiwon1027/Vehicle-occupant-Detection-system
+  #link:
+  github: https://github.com/jiwon1027/Vehicle-occupant-Detection-system
   quote: >
     다인승 전용차로, HOV(High-Occupancy Vehicle) Lane을 불법으로 이용하는 차량을 자동으로 단속하는 시스템
   description: |
@@ -12,7 +13,8 @@
 
 - layout: top-middle
   name: 스마트 장애인 주차구역 단속 시스템
-  link: https://github.com/jiwon1027/Smart-Disabled-Parking-area-control-system
+  #link:
+  github: https://github.com/jiwon1027/Smart-Disabled-Parking-area-control-system
   quote: >
     자동차의 주차공간의 부족으로 도로변의 갓길뿐만 아니라 장애인 주차장에 불법으로 주차하는 경우 발생하여 이를 단속하는 시스템
   description: |
@@ -25,7 +27,8 @@
 
 - layout: top-middle
   name: Smart Mobile for Infants
-  link: https://github.com/jiwon1027/Smart-Mobile-for-Infants-Using-Deep-Learning
+  #link:
+  github: https://github.com/jiwon1027/Smart-Mobile-for-Infants-Using-Deep-Learning
   quote: >
     영아 돌연사증후군을 예방하기 위한 스마트 모빌
   description: |
