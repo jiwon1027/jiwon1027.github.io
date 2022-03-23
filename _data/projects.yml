@@ -26,7 +26,8 @@
 - layout: top-middle
   name: Smart Mobile for Infants
   link: https://github.com/jiwon1027/Smart-Mobile-for-Infants-Using-Deep-Learning
-  quote: > 영아 돌연사증후군을 예방하기 위한 스마트 모빌
+  quote: >
+    영아 돌연사증후군을 예방하기 위한 스마트 모빌
   description: |
     - 사용기술 : <mark>Python</mark> <mark>Android Studio</mark> <mark>JAVA</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
     - 프로젝트 기간 : 2021.01 ~ 2021.06
