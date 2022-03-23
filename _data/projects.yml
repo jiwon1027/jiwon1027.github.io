@@ -32,7 +32,7 @@
   quote: >
     영아 돌연사증후군을 예방하기 위한 스마트 모빌
   description: |
-    - 사용기술 : <mark>Python</mark> <mark>Android Studio</mark> <mark>JAVA</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
+    - 사용기술 : <mark>Python</mark> <mark>JAVA</mark> <mark>Android Studio</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
     - 프로젝트 기간 : 2021.01 ~ 2021.06
     - Raspberry pi를 이용한 Embedded System 개발
     - Yolov5(Deep Learning Model)를 이용한 객체 인식
