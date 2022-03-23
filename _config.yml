@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: 이지원 (Lee Ji won)
 title: Back-End Developer
 email: won64312000@naver.com
-website: https://ddangjiwon1027.tistory.com
+website: https://ddangjiwon.tistory.com
 phone: 010 - 6429 - 1037
 # Social links
 github_username: jiwon1027
@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 #more_title: Other
 #more_content: | # this will include new lines to allow paragraphs
-#  - [개인 블로그](https://ddangjiwon1027.tistory.com/)
+#  - [개인 블로그](https://ddangjiwon.tistory.com/)
 
 # Footer
 footer_show_references: true
