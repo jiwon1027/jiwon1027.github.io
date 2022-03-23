@@ -1,11 +1,16 @@
 <div class="container projects-container">
-  <table border="1">
+
+    <h3>{{ site.projects_title | default: "Projects" }}</h3>
+    <table border="1">
     <tr>
       <td>
-    <h3>{{ site.projects_title | default: "Projects" }}</h3>
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
+      </td>
+      <td>
+        안녕
+
       </td>
     </tr>
   </table>
