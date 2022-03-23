@@ -17,10 +17,23 @@
     자동차의 주차공간의 부족으로 도로변의 갓길뿐만 아니라 장애인 주차장에 불법으로 주차하는 경우 발생하여 이를 단속하는 시스템
   description: |
     - 사용기술 : <mark>Python</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
-    - 프로젝트 기간 : 2021.10 ~ 2021.12
+    - 프로젝트 기간 : 2020.10 ~ 2020.12
     - Raspberry pi를 이용한 Embedded System 개발
     - Yolov5(Deep Learning Model)를 이용한 객체 인식
     - Kakao API을 이용한 차량 번호판 인식
+    - 영상처리를 통한 데이터 처리
+
+- layout: top-middle
+  name: Smart Mobile for Infants
+  link: https://github.com/jiwon1027/Smart-Mobile-for-Infants-Using-Deep-Learning
+  quote: > 영아 돌연사증후군을 예방하기 위한 스마트 모빌
+  description: |
+    - 사용기술 : <mark>Python</mark> <mark>Android Studio</mark> <mark>JAVA</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
+    - 프로젝트 기간 : 2021.01 ~ 2021.06
+    - Raspberry pi를 이용한 Embedded System 개발
+    - Yolov5(Deep Learning Model)를 이용한 객체 인식
+    - Cumtom Data Training을 이용한 정확도 증가
+    - Android Studio을 이용한 어플리케이션 개발
     - 영상처리를 통한 데이터 처리
 
 
