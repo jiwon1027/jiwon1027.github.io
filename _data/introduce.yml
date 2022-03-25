@@ -1,3 +1,4 @@
+'''
 - layout: left
   image: images/resumeprofile.jpg
   quote: >
@@ -15,7 +16,7 @@
     이런 부분을 조금 더 보완하고 이용한다면 서비스 향상에 큰 역할을 할 것이라고 생각합니다.
 
 
-'''
+
 - layout: right
   quote: >
     학교 생활
