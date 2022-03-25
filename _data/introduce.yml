@@ -17,6 +17,7 @@
     이런 부분을 조금 더 보완하고 이용한다면 서비스 향상에 큰 역할을 할 것이라고 생각합니다.
 
 - layout: right
+  image: images/pic.gif
   quote: >
     저는 OOO 입니다.
   description: | # this will include new lines to allow paragraphs
