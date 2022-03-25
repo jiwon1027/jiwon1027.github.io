@@ -16,7 +16,9 @@
 
       {%- include about.html -%}
 
-
+      {%- if site.data.introduce.size > 0 -%}
+        {%- include introduce.html -%}
+      {%- endif -%}
 
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
@@ -40,9 +42,6 @@
         {%- include education.html -%}
       {%- endif -%}
 
-      {%- if site.data.introduce.size > 0 -%}
-        {%- include introduce.html -%}
-      {%- endif -%}
 
       {%- if site.data.class.size > 0 -%}
         {%- include class.html -%}
