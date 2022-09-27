@@ -1,4 +1,11 @@
 - layout: left
+  name: 삼성 청년 SW 아카데미
+  dates: 2022.07 ~ 현재
+  qualification: SAMSUNG
+  description: | # this will include new lines to allow paragraphs
+    - JAVA를 통한 웹 기술 및 알고리즘 역량 학습
+
+- layout: left
   name: 42Seoul Laspisine
   dates: 2022.02 ~ 2022.03
   qualification: 이노베이션 아카데미
@@ -25,6 +32,3 @@
   dates: 2014.03 ~ 2016.02
   qualification: 이과
   description: | # this will include new lines to allow paragraphs
-
-
-    
