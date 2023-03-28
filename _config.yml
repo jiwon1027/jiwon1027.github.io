@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: 이지원 (Lee Ji won)
-title: Back-End Developer
+title: 데이터 분석과 인프라 구축 능력을 겸비한 Back-End Developer
 email: won64312000@naver.com
 website: https://ddangjiwon.tistory.com
 phone: 010 - 6429 - 1037
@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   병역 : 2018.02 ~ 2019.10 육군 병장 만기제대
 
-  사용 기술 : <mark>Python</mark> <mark>Django</mark> <mark>MySQL</mark>
+  사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>Python</mark> <mark>MySQL</mark>
 
 
 
