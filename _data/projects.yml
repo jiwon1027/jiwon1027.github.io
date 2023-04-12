@@ -1,4 +1,43 @@
 - layout: top-middle
+  name: 방방곡곡 ( 방탈출 테마 맞춤 추천 플랫폼 )
+  #link:
+  github: jiwon1027/BangBangGokGok
+
+  quote: >
+    저희의 서비스는 방탈출 테마 맞춤 추천 플랫폼입니다.
+    전국에 있는 모든 방탈출 테마를 제공합니다.
+    방문한 테마에 대해 리뷰를 작성할 수 있습니다.
+    프로필에서 방문한 테마들의 정보를 통계로 볼 수 있습니다.
+    자신이 방문한 테마 정보를 바탕으로 사용자에게 맞춤 테마를 추천해줍니다.
+    테마에 함께 갈 사용자들을 추가하고 해당 그룹에게 맞춤 테마를 추천해줍니다.  
+description: |
+    - 사용기술 : <mark>Java</mark> <mark>SpringBoot</mark> <mark>Python</mark> <mark>Pandas</mark> <mark>Django</mark> <mark>MySQL</mark> <mark>Docker</mark> <mark>Jenkins</mark> <mark>Nginx</mark> <mark>AWS EC2</mark>
+    - 프로젝트 기간 : 2020.06 ~ 2021.06
+    - Python을 이용한 추천 시스템 적용(CBF, CF)
+    - Spring Security를 이용한 Form, Oauth Login 구현
+    - Spring Data JPA를 이용한 DB 적용
+    - Jenkins를 이용 CI/CD 구축
+    - Docker + EC2를 통한 프로젝트 배포
+
+
+- layout: top-middle
+  name: 경매중 (경제적이고 매력적인 중고거래 플랫폼)
+  #link:
+  github: jiwon1027/Auctopus
+  quote: >
+    저희 서비스가 추구하는 목표는 경제적이고 매력적인 중고거래 플랫폼입니다.
+    화상 기술을 통해 원거리에서 중고 상품을 확인할 수 있습니다.
+    판매자는 수요에 맞는 가격을 제시받고, 구매자는 가격에 맞는 상품을 구할 수 있습니다. 
+description: |
+    - 사용기술 : <mark>Java</mark> <mark>SpringBoot</mark> <mark>MariaDB</mark> <mark>Redis</mark> <mark>Docker</mark> <mark>Jenkins</mark> <mark>Nginx</mark> <mark>AWS EC2</mark>
+    - 프로젝트 기간 : 2023.01.02 ~ 2023.02.24
+    - Openvidu를 이용한 화상채팅 서비스 제공
+    - WebSocket 기반으로 실시간 채팅 제공
+    - Jenkins를 이용 CI/CD 구축
+    - Docker + EC2를 통한 프로젝트 배포
+
+
+- layout: top-middle
   name: 차량 탑승 인원 감지 시스템
   #link:
   github: jiwon1027/Vehicle-occupant-Detection-system
@@ -10,34 +49,3 @@
     - Raspberry pi를 이용한 Embedded System 개발
     - Yolov5(Deep Learning Model)를 이용한 객체 인식
     - 영상처리를 통한 데이터 처리
-
-- layout: top-middle
-  name: 스마트 장애인 주차구역 단속 시스템
-  #link:
-  github: jiwon1027/Smart-Disabled-Parking-area-control-system
-  quote: >
-    자동차의 주차공간의 부족으로 도로변의 갓길뿐만 아니라 장애인 주차장에 불법으로 주차하는 경우 발생하여 이를 단속하는 시스템
-  description: |
-    - 사용기술 : <mark>Python</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
-    - 프로젝트 기간 : 2020.10 ~ 2020.12
-    - Raspberry pi를 이용한 Embedded System 개발
-    - Yolov5(Deep Learning Model)를 이용한 객체 인식
-    - Kakao API을 이용한 차량 번호판 인식
-    - 영상처리를 통한 데이터 처리
-
-- layout: top-middle
-  name: Smart Mobile for Infants
-  #link:
-  github: jiwon1027/Smart-Mobile-for-Infants-Using-Deep-Learning
-  quote: >
-    영아 돌연사증후군을 예방하기 위한 스마트 모빌
-  description: |
-    - 사용기술 : <mark>Python</mark> <mark>JAVA</mark> <mark>Android Studio</mark> <mark>Yolov5</mark> <mark>MariaDB</mark> <mark>Raspberry Pi</mark>
-    - 프로젝트 기간 : 2021.01 ~ 2021.06
-    - Raspberry pi를 이용한 Embedded System 개발
-    - Yolov5(Deep Learning Model)를 이용한 객체 인식
-    - Cumtom Data Training을 이용한 정확도 증가
-    - Android Studio을 이용한 어플리케이션 개발
-    - 영상처리를 통한 데이터 처리
-
-
