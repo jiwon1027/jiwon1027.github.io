@@ -4,15 +4,10 @@
   github: jiwon1027/BangBangGokGok
 
   quote: >
-    저희의 서비스는 방탈출 테마 맞춤 추천 플랫폼입니다.
-    전국에 있는 모든 방탈출 테마를 제공합니다.
-    방문한 테마에 대해 리뷰를 작성할 수 있습니다.
-    프로필에서 방문한 테마들의 정보를 통계로 볼 수 있습니다.
-    자신이 방문한 테마 정보를 바탕으로 사용자에게 맞춤 테마를 추천해줍니다.
-    테마에 함께 갈 사용자들을 추가하고 해당 그룹에게 맞춤 테마를 추천해줍니다.  
+    전국에 있는 모든 방탈출 테마를 이용한 방탈출 테마 맞춤 추천 플랫폼입니다.
 description: |
     - 사용기술 : <mark>Java</mark> <mark>SpringBoot</mark> <mark>Python</mark> <mark>Pandas</mark> <mark>Django</mark> <mark>MySQL</mark> <mark>Docker</mark> <mark>Jenkins</mark> <mark>Nginx</mark> <mark>AWS EC2</mark>
-    - 프로젝트 기간 : 2020.06 ~ 2021.06
+    - 프로젝트 기간 : 2023.02.20 ~ 2023.04.07
     - Python을 이용한 추천 시스템 적용(CBF, CF)
     - Spring Security를 이용한 Form, Oauth Login 구현
     - Spring Data JPA를 이용한 DB 적용
@@ -25,9 +20,7 @@ description: |
   #link:
   github: jiwon1027/Auctopus
   quote: >
-    저희 서비스가 추구하는 목표는 경제적이고 매력적인 중고거래 플랫폼입니다.
-    화상 기술을 통해 원거리에서 중고 상품을 확인할 수 있습니다.
-    판매자는 수요에 맞는 가격을 제시받고, 구매자는 가격에 맞는 상품을 구할 수 있습니다. 
+    화상 기술을 중고 상품을 경매할 수 있는 중고 경매 플랫폼 입니다.
 description: |
     - 사용기술 : <mark>Java</mark> <mark>SpringBoot</mark> <mark>MariaDB</mark> <mark>Redis</mark> <mark>Docker</mark> <mark>Jenkins</mark> <mark>Nginx</mark> <mark>AWS EC2</mark>
     - 프로젝트 기간 : 2023.01.02 ~ 2023.02.24
