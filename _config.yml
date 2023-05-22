@@ -23,15 +23,13 @@ github_username: jiwon1027
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  나이 : 26 세 (1997년 생)
 
-  최종 학력 : 동의대학교 컴퓨터공학 졸업
+  팀 활동과 코드 퀄리티를 중요시 생각하는 신입 백엔드 개발자 이지원 입니다.
 
-  사는 곳 : 서울특별시 중랑구
-
-  병역 : 2018.02 ~ 2019.10 육군 병장 만기제대
-
-  사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>Python</mark> <mark>MySQL</mark> <mark>Docker</mark> <mark>Jenkins</mark>
+  새로운 기술 스택에 관심이 많고 배우는 것과 기록하는 걸 좋아합니다.
+  기술 구현을 넘어서 OOP 및 인프라에도 관심이 있습니다.
+  반복되는 일을 자동화하고 비효율적인 프로세스를 개선하는 일을 좋아합니다.
+  적극적으로 의견을 내고 해야할 일을 스스로 찾는 개발자 입니다.
 
 
 
