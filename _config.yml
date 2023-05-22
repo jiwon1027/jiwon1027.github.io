@@ -25,6 +25,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   **팀 활동과 코드 퀄리티를 중요시 생각하는 신입 백엔드 개발자 이지원 입니다.**
+  <br>
 
   - 새로운 기술 스택에 관심이 많고 배우는 것과 기록하는 걸 좋아합니다.
 
